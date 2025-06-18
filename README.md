@@ -1,5 +1,7 @@
 # Task-3
 📊 Amazon Sales SQL Analysis – Internship Task 3
+
+
 ✅ Objective
 As part of my Data Analyst Internship Task 3, I analyzed a simulated Amazon Sales dataset using SQL. The goal was to extract business insights using SQL queries like SELECT, JOIN, GROUP BY, HAVING, AGGREGATE FUNCTIONS, and more.
 
